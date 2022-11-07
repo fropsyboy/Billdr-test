@@ -1,10 +1,10 @@
 ### Docmentation
 
+### Assignment files  - `02_front`
 ### Installation details - `./bulldr-test/README.md`
 
 ### Screenshots for quick view - .`/bulldr-test/screenshots`
 
-### Assignment files  - `02_front`
 ### - `./bulldr-test/src/screens/userList` - Question 02_front -> 1(a)
 ### - `./bulldr-test/src/screens/userDescription` - Question 02_front -> 1(b)
 ### - `./bulldr-test/src/screens/userList` - Question 02_front -> 2
