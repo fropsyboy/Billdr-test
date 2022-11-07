@@ -1,14 +1,14 @@
-### Docmentation
+### `Docmentation`
 
-### Assignment files  - `02_front`
-### Installation details - `./bulldr-test/README.md`
+### `Assignment files`  - *02_front*
+### `Installation details` - *./bulldr-test/README.md*
 
 ### Screenshots for quick view - .`/bulldr-test/screenshots`
 
-### - `./bulldr-test/src/screens/userList` - Question 02_front -> 1(a)
-### - `./bulldr-test/src/screens/userDescription` - Question 02_front -> 1(b)
-### - `./bulldr-test/src/screens/userList` - Question 02_front -> 2
-### - `./bulldr-test/src/screens/userDescription` - Question 02_front -> 3
+### - `./bulldr-test/src/screens/userList` - *Question 02_front -> 1(a)*
+### - `./bulldr-test/src/screens/userDescription` - *Question 02_front -> 1(b)*
+### - `./bulldr-test/src/screens/userList` - *Question 02_front -> 2*
+### - `./bulldr-test/src/screens/userDescription` - *Question 02_front -> 3*
 ### -    Question 4 - I used pure `bootstrap` as the css framework
 
 ### Test file - - `./bulldr-test/src/setupTest.js` : didn't set it up but just added the structure needed to set it up. Tool - ```jest``` for test.
